@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB7368C6-5FE1-4FD4-BCC3-C5E7AEA74DC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Spotify.My.MyApplication</StartupObject>
+    <RootNamespace>Spotify</RootNamespace>
+    <AssemblyName>Spotify</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Spotify.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Spotify.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Domain\Album.vb" />
+    <Compile Include="Domain\Artist.vb" />
+    <Compile Include="Domain\Fav_Artist.vb" />
+    <Compile Include="Domain\Song.vb" />
+    <Compile Include="Domain\User.vb" />
+    <Compile Include="Domain\PlayBack.vb" />
+    <Compile Include="Persistance\AlbumDAO.vb" />
+    <Compile Include="Persistance\ArtistDAO.vb" />
+    <Compile Include="Persistance\DBBroker.vb" />
+    <Compile Include="Persistance\Fav_ArtistDAO.vb" />
+    <Compile Include="Persistance\PlayBackDAO.vb" />
+    <Compile Include="Persistance\SongDAO.vb" />
+    <Compile Include="Persistance\UserDAO.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Presentation\Favs.Designer.vb">
+      <DependentUpon>Favs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Favs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ShowQuerys.Designer.vb">
+      <DependentUpon>ShowQuerys.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ShowQuerys.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Main.designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Management.designer.vb">
+      <DependentUpon>Management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MyMusic.designer.vb">
+      <DependentUpon>MyMusic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MyMusic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\PlayASong.designer.vb">
+      <DependentUpon>PlayASong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\PlayASong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ShowPlayBack.designer.vb">
+      <DependentUpon>ShowPlayBack.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ShowPlayBack.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Favs.resx">
+      <DependentUpon>Favs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Management.resx">
+      <DependentUpon>Management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MyMusic.resx">
+      <DependentUpon>MyMusic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\PlayASong.resx">
+      <DependentUpon>PlayASong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ShowPlayBack.resx">
+      <DependentUpon>ShowPlayBack.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ShowQuerys.resx">
+      <DependentUpon>ShowQuerys.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\Album.datasource" />
+    <None Include="My Project\DataSources\AlbumDAO.datasource" />
+    <None Include="My Project\DataSources\Artist.datasource" />
+    <None Include="My Project\DataSources\ArtistDAO.datasource" />
+    <None Include="My Project\DataSources\DBBroker.datasource" />
+    <None Include="My Project\DataSources\Favs.datasource" />
+    <None Include="My Project\DataSources\Fav_Artist.datasource" />
+    <None Include="My Project\DataSources\Fav_ArtistDAO.datasource" />
+    <None Include="My Project\DataSources\Main.datasource" />
+    <None Include="My Project\DataSources\Management.datasource" />
+    <None Include="My Project\DataSources\MyMusic.datasource" />
+    <None Include="My Project\DataSources\PlayASong.datasource" />
+    <None Include="My Project\DataSources\PlayBack.datasource" />
+    <None Include="My Project\DataSources\PlayBackDAO.datasource" />
+    <None Include="My Project\DataSources\ShowPlayBack.datasource" />
+    <None Include="My Project\DataSources\ShowQuerys.datasource" />
+    <None Include="My Project\DataSources\Song.datasource" />
+    <None Include="My Project\DataSources\SongDAO.datasource" />
+    <None Include="My Project\DataSources\Spotify.My.MyApplication.datasource" />
+    <None Include="My Project\DataSources\Spotify.My.MySettings.datasource" />
+    <None Include="My Project\DataSources\User.datasource" />
+    <None Include="My Project\DataSources\UserDAO.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21Pilots.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24k.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Californication.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CTangana.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Estopa.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Extremoduro.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImageNotFound.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Innuendo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IrosATomarPorCulo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MachineGunKelly.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Queen.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RHCP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StadiumArcadium.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,123 @@
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\Álvaro-MSI\source\repos\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\Álvaro-MSI\source\repos\Spotify\bin\Debug\Spotify.exe
+C:\Users\Álvaro-MSI\source\repos\Spotify\bin\Debug\Spotify.pdb
+C:\Users\Álvaro-MSI\source\repos\Spotify\bin\Debug\Spotify.xml
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.exe
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.xml
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.pdb
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\Álvaro-MSI\source\repos\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\bin\Debug\Spotify.exe
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\bin\Debug\Spotify.pdb
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\bin\Debug\Spotify.xml
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.exe
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.xml
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.pdb
+C:\Users\Álvaro-MSI\Desktop\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\Álvaro-MSI\Desktop\Spotify\bin\Debug\Spotify.exe
+C:\Users\Álvaro-MSI\Desktop\Spotify\bin\Debug\Spotify.pdb
+C:\Users\Álvaro-MSI\Desktop\Spotify\bin\Debug\Spotify.xml
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.Playlists.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.ShowPlayBack.resources
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.exe
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.xml
+C:\Users\Álvaro-MSI\Desktop\Spotify\obj\Debug\Spotify.pdb
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify\obj\Debug\Spotify.ShowPlayBack.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\bin\Debug\Spotify.exe
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\bin\Debug\Spotify.pdb
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\bin\Debug\Spotify.xml
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.ShowPlayBack.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.exe
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.xml
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.pdb
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify\obj\Debug\Spotify.ShowQuerys.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\bin\Debug\Spotify.exe
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\bin\Debug\Spotify.pdb
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\bin\Debug\Spotify.xml
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.ShowPlayBack.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.ShowQuerys.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.exe
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.xml
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify2\Spotify\obj\Debug\Spotify.pdb
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\bin\Debug\Spotify.exe
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\bin\Debug\Spotify.pdb
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\bin\Debug\Spotify.xml
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.ShowPlayBack.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.ShowQuerys.resources
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.exe
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.xml
+C:\Users\Pablo\Documents\UNI\Segundo\segundo cuatri\DataBases\Lab\Session3\PostCateo\Spotify2\Spotify\obj\Debug\Spotify.pdb
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\bin\Debug\Spotify.exe
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\bin\Debug\Spotify.pdb
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\bin\Debug\Spotify.xml
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.vbprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.Favs.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.Main.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.Management.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.MyMusic.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.PlayASong.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.ShowPlayBack.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.ShowQuerys.resources
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.vbproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.vbproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.exe
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.xml
+C:\Users\oscar\OneDrive\Escritorio\BBDD\Practicas\Spotify3\Spotify2\Spotify\obj\Debug\Spotify.pdb
